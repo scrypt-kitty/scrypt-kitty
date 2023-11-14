@@ -1,16 +1,114 @@
-### Hi there 👋
+## SCRYPT-KITTY - Ruby Perez
 
-<!--
-**scrypt-kitty/scrypt-kitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Toolchain
 
-Here are some ideas to get you started:
+<!-- icons are from https://github.com/github/explore/tree/main/topics, commit 2dca03adcddd05cb232d56c1ed100544cd57e3f8 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+    <tr>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/python/python.png" height="32px" />
+            <br />
+            Python
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/ruby/ruby.png" height="32px" />
+            <br />
+            Ruby
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/javascript/javascript.png" height="32px" />
+            <br />
+            JavaScript
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/nodejs/nodejs.png" height="32px" />
+            <br />
+            NodeJS
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/react/react.png" height="32px" />
+            <br />
+            React
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/html/html.png" height="32px" />
+            <br />
+            HTML5
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/css/css.png" height="32px" />
+            <br />
+            CSS3
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/aws/aws.png" height="32px" />
+            <br />
+            AWS
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/terraform/terraform.png" height="32px" />
+            <br />
+            Terraform
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/cpp/cpp.png" height="32px" />
+            <br />
+            C++
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/rust/rust.png" height="32px" />
+            <br />
+            Rust
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/visual-studio-code/visual-studio-code.png" height="32px" />
+            <br />
+            VS Code
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/pycharm/pycharm.png" height="32px" />
+            <br />
+            PyCharm
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/docker/docker.png" height="32px" />
+            <br />
+            Docker
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/kubernetes/kubernetes.png" height="32px" />
+            <br />
+            Kubernetes
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/mongodb/mongodb.png" height="32px" />
+            <br />
+            MongoDB
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/mysql/mysql.png" height="32px" />
+            <br />
+            MySQL
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/postgresql/postgresql.png" height="32px" />
+            <br />
+            PostgreSQL
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/sqlite/sqlite.png" height="32px" />
+            <br />
+            SQLite
+        </td>
+    </tr>
+</table>
+
+
+<!-- card generated by https://github.com/anuraghazra/github-readme-stats -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=scrypt-kitty&theme=gotham" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=scrypt-kitty&hide=contribs,prs,issues&show_icons=true&theme=gotham" />
