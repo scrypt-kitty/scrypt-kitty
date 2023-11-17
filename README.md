@@ -1,5 +1,7 @@
 ## SCRYPT-KITTY - Ruby Perez
 
+Sorry, most of my work is done in private repos or moved to private GitLab deployments. Anyway, here's some neat stuff!
+
 ### Toolchain
 
 <!-- icons are from https://github.com/github/explore/tree/main/topics, commit 2dca03adcddd05cb232d56c1ed100544cd57e3f8 -->
