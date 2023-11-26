@@ -43,44 +43,7 @@ Sorry, most of my work is done in private repos or moved to private GitLab deplo
             CSS3
         </td>
     </tr>
-    <tr>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/aws/aws.png" height="32px" />
-            <br />
-            AWS
-        </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/terraform/terraform.png" height="32px" />
-            <br />
-            Terraform
-        </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/go/go.png" height="32px" />
-            <br />
-            GoLang
-        </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/cpp/cpp.png" height="32px" />
-            <br />
-            C++
-        </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/rust/rust.png" height="32px" />
-            <br />
-            Rust
-        </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/visual-studio-code/visual-studio-code.png" height="32px" />
-            <br />
-            VS Code
-        </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/pycharm/pycharm.png" height="32px" />
-            <br />
-            PyCharm
-        </td>
-    </tr>
-    <tr>
+        <tr>
         <td align="center">
             <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/docker/docker.png" height="32px" />
             <br />
@@ -115,6 +78,45 @@ Sorry, most of my work is done in private repos or moved to private GitLab deplo
             <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/sqlite/sqlite.png" height="32px" />
             <br />
             SQLite
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/aws/aws.png" height="32px" />
+            <br />
+            AWS
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/terraform/terraform.png" height="32px" />
+            <br />
+            Terraform
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/go/go.png" height="32px" />
+            <br />
+            GoLang
+        </td>
+        <!--
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/cpp/cpp.png" height="32px" />
+            <br />
+            C++
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/rust/rust.png" height="32px" />
+            <br />
+            Rust
+        </td> 
+        -->
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/visual-studio-code/visual-studio-code.png" height="32px" />
+            <br />
+            VS Code
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/2dca03adcddd05cb232d56c1ed100544cd57e3f8/topics/pycharm/pycharm.png" height="32px" />
+            <br />
+            PyCharm
         </td>
     </tr>
 </table>
