@@ -1,4 +1,4 @@
-## SCRYPT-KITTY - Ruby Perez
+## SCRYPT-KITTY
 
 Sorry, most of my work is done in private repos or moved to private GitLab deployments. Anyway, here's some neat stuff!
 
