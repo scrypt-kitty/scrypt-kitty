@@ -135,13 +135,13 @@ Most of my work is done in private repos or moved to private GitLab deployments.
 [![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=scoutsuite)](https://github.com/scrypt-kitty/scoutesuite)
 [![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=prowler)](https://github.com/scrypt-kitty/prowler)
 [![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=former2)](https://github.com/scrypt-kitty/former2)
-[![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=sonarqube)](https://github.com/scrypt-kitty/sonarqube)
-[![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=VORP-Inventory)](https://github.com/scrypt-kitty/VORP-Inventory)
+<!-- [![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=sonarqube)](https://github.com/scrypt-kitty/sonarqube) -->
+<!-- [![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=VORP-Inventory)](https://github.com/scrypt-kitty/VORP-Inventory) -->
 [![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=rancher)](https://github.com/scrypt-kitty/rancher)
-[![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=vault)](https://github.com/scrypt-kitty/vault)
-[![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=consul)](https://github.com/scrypt-kitty/consul)
-[![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=terraform)](https://github.com/scrypt-kitty/terraform)
-[![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=opentofu)](https://github.com/scrypt-kitty/opentofu)
+<!-- [![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=vault)](https://github.com/scrypt-kitty/vault) -->
+<!-- [![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=consul)](https://github.com/scrypt-kitty/consul) -->
+<!-- [![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=terraform)](https://github.com/scrypt-kitty/terraform) -->
+<!-- [![repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=scrypt-kitty&theme=gotham&repo=opentofu)](https://github.com/scrypt-kitty/opentofu) -->
 
 
 
